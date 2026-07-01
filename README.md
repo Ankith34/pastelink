@@ -42,5 +42,5 @@ This project is deliberately built in stages to build real understanding of:
 - Database integration *(planned)*
 - Authentication and authorization *(planned)*
 - Caching and scalability concepts *(planned)*
-- 
+
 🚧 Actively under development as part of a structured, from-scratch learning path in backend development and system design fundamentals.
